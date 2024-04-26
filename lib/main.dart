@@ -13,7 +13,7 @@ class CastingCalculator extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Casting Calculator',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueGrey),
         useMaterial3: true,
       ),
       home: const Counter(title: 'Casting Calculator'),
